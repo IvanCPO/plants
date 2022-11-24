@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>My favorite Plants</title>
     <updated>2022-11-24T13:53:53Z</updated>
-    <link>https://ivancpo.github.io/plants/index</link>
+    <link rel="self">https://ivancpo.github.io/plants/index</link>
     <entry>
         <author>
             <name>a22ivancp</name>
         </author>
         <title>Cala</title>
         <updated>2022-11-24T13:53:53Z</updated>
-        <link>https://ivancpo.github.io/plants/plant</link>
+        <link rel="self">https://ivancpo.github.io/plants/plant</link>
         <published>2022-11-24T13:53:53Z</published>
     </entry>
 </feed>
