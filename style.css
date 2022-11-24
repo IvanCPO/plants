@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 3em;
+}
+ul{
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+}
+li {
+    list-style: none;
+}
+li img {
+    object-fit: cover;
+    height: 325px;
+    width: auto;
+    vertical-align: middle;
+    border-radius: 5px;
+}
